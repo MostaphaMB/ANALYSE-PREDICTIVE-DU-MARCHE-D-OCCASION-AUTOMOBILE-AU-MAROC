@@ -1,4 +1,11 @@
 # 🚗 Analyse Prédictive du Marché d'Occasion Automobile au Maroc
+<img width="1194" height="669" alt="01" src="https://github.com/user-attachments/assets/2928c647-aba1-4ab5-af1e-7689d85b25ac" />
+
+<img width="1192" height="665" alt="02" src="https://github.com/user-attachments/assets/4e6594fb-62f1-4455-9e69-7a4389ba7504" />
+
+<img width="1188" height="667" alt="03" src="https://github.com/user-attachments/assets/5b91bf5d-9eca-40d6-b67a-10615bb7becb" />
+
+<img width="1189" height="671" alt="04" src="https://github.com/user-attachments/assets/571ca75d-c754-40bb-9438-e05918d3937b" />
 
 ## 📝 Présentation du Projet
 Ce projet "Fil Rouge" consiste à concevoir et déployer une solution complète de Data Science, allant de la collecte de données brutes sur le web (**Web Scraping**) jusqu'à l'estimation des prix des véhicules d'occasion au Maroc par **Machine Learning**. En s'appuyant sur les annonces de la plateforme leader *Moteur.ma*, l'objectif est d'apporter de la transparence à un marché traditionnellement opaque en fournissant un outil prédictif fiable, interprétable et adapté aux réalités économiques marocaines.
